@@ -53,7 +53,7 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   Resumo produzido pelo NotebookLM.
 
   ### Glossário
-  Glossário criado pleo NotebookLM
+  Glossário criado pelo NotebookLM
 
   ### Exercícios
   Exercícios gerados pela IA.
