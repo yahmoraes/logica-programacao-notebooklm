@@ -45,7 +45,7 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   ### Prompt 6
   Crie 10 prompts reutilizáveis para estudar lógica de programação no NotebookLM.
 
-  **Resultado:** Foram criados prompets pararevisões futuras.
+  **Resultado:** Foram criados prompts para revisões futuras.
 
   ## Miniguia de Estudo
 
