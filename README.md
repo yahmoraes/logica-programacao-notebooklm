@@ -3,7 +3,7 @@
 ## Contexto
 Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desafio da DIO. O tema escolhido foi Lógica de Programação para Iniciantes.
 
-## Obetivos
+## Objetivos
 - Aprender os conceitos básicos de lógica de programação.
 - Entender algoritimos, variáveis, estruturas de decisão e repetição.
 - Utilizar IA para organizar o aprendizado.
