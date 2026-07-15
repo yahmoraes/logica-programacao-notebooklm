@@ -18,9 +18,9 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   ## Engenharia de Prompts
 
   ### Prompt 1
-  Faça um resumo das cincos fonyes em linguagem simples.
+  Faça um resumo das cinco fontes em linguagem simples.
 
-   **Resutado:** Foi gerado um resumo dos principais conceitos
+   **Resutado:** Foi gerado um resumo dos principais conceitos.
 
   ### Prompt 2
   Faça um glossário.
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   ### Prompt 4
   Explique variáveis com exemplos.
 
-  **Resultado:** Recebi exemplos simples utilizanod situações do dia a dia.
+  **Resultado:** Recebi exemplos simples utilizando situações do dia a dia.
 
   ### Prompt 5
   Qual a diferença entre IF e ELSE?
@@ -43,9 +43,9 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   **Resulatdo:** Entendi quando usar cada estrutura de decisão.
 
   ### Prompt 6
-  Crie 10 prompts reutilizáveis para estudarlógica de programação no NotebookLM.
+  Crie 10 prompts reutilizáveis para estudar lógica de programação no NotebookLM.
 
-  **Resultado:** Foram criados prompets pararevisões futuras,
+  **Resultado:** Foram criados prompets pararevisões futuras.
 
   ## Miniguia de Estudo
 
@@ -53,7 +53,7 @@ Este projeto foi desenvolvido utilizando o Google NotebookLM como parte do desaf
   Resumo produzido pelo NotebookLM.
 
   ### Glossário
-  Glossário criado pelo NotebookLM
+  Glossário criado pelo NotebookLM.
 
   ### Exercícios
   Exercícios gerados pela IA.
